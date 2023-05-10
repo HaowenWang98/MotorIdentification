@@ -1,2 +1,2 @@
 # MotorIdentification
-The Datasets of IPMSM.
+The Datasets of IPMSM identification.
